@@ -26,4 +26,4 @@ roslaunch ar1_description main.launch
   - [ ]
   - [ ]
   - [ ]
-- [ ] Write a Python/C++ script to publish RVIZ markers which tracks the path/area covered by the robot during the prvious task
+- [ ] Write a Python/C++ script to publish RVIZ markers which tracks the path/area covered by the robot during the previous task
