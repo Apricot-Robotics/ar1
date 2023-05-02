@@ -1,9 +1,9 @@
 # Apricot Interview Task
 
 ## Setup
-Clone the repository. 
+Clone the repository into your workspace and make 
 ```
-git clone 
+git clone https://github.com/Apricot-Robotics/ar1.git
 ```
 Launch the main file. The robot should spawn in a warehouse environment
 ```
