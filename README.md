@@ -22,8 +22,5 @@ roslaunch ar1_description main.launch
   - Create a map with any package of your choice
   - Setup a navstack with any packages of your choice
   - Tune the parameters for the robot
-- [ ] Write a Python/C++ script to send a sequence of navigation goals with the ROS action interface. The robot must start at the origin and go to the following waypoints in order
-  - [ ]
-  - [ ]
-  - [ ]
+- [ ] Write a Python/C++ script to send a sequence of navigation goals with the ROS action interface. Take at list of waypoints as input from the user and navigate to these points in order
 - [ ] Write a Python/C++ script to publish RVIZ markers which tracks the path/area covered by the robot during the previous task
