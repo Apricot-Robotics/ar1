@@ -15,6 +15,7 @@ roslaunch ar1_description main.launch
 - The robot has only 1 sensor and it publlishes its data to the /scan topic
 - The drive topic of the robot is '/cmd_vel'
 - The odometry topic and frame are 'odom'
+- The footprint of the robot is 810mmx510mm with 'base_link' at its center
 
 ## Tasks
 - [ ] There's an error in the robot's description package which won't show up as an error, but it might hinder your other tasks. Find out the error and correct it
